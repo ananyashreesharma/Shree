@@ -1,6 +1,6 @@
-# Shree - Portfolio
+# Shree 
 
-A portfolio website built with React + Vite.
+A website built with React + Vite.
 
 This project uses a minimal setup to get React working in Vite with HMR and ESLint rules.
 
